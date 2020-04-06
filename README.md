@@ -1,13 +1,14 @@
 This repository contains all the shell scripts for basic utilities that might come handy in situations. The scripts are written in various programming language like bash, python etc. 
 
 ### Structure
-
+```
 ../scripts/
 ├── LICENSE
 ├── python
 ├── README.md
 └── shell
     └── rename.sh
+```
 
 ### Scripts
 ### Shell Scripts
